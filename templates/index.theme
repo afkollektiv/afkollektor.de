@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Der AfKollektor.</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <?theme body?>
+  </body>
+</html>
