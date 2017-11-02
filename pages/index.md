@@ -65,7 +65,7 @@
     - **Übungsschein:** Keiner
 - **Klausur**: 13. März 2018
 
-## Kalender
+## Klausurkalender
 
 Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag
 ---|---|---|---|---|---|---
