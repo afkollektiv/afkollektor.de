@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>Der AfKollektor.</title>
-    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="./index.css">
   </head>
   <body>
-    <?theme body?>
+    <div class="afk-container">
+      <?theme body?>
+    </div>
   </body>
 </html>
