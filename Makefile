@@ -1,2 +1,2 @@
 all:
-	echo "Hello, test!"
+	echo "Hello, make!"
