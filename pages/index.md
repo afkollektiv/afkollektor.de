@@ -58,9 +58,9 @@
 **Modulprüfung:** Nur Klausur
 - **Übungsbetrieb:**
     - **Übungsblätter:** Alle zwei Wochen, freiwillig, Bonuspunkte:
-        - **>25%:** 1 Bonuspunkt
-        - **>50%:** 2 Bonuspunkte
-        - **>75%:** 3 Bonuspunkte
+        - **>= 25%:** 1 Bonuspunkt
+        - **>= 50%:** 2 Bonuspunkte
+        - **>= 75%:** 3 Bonuspunkte
         - Abgabe: Infobau (50.34), Briefkästen im Untergeschoss
     - **Übungsschein:** Keiner
 - **Klausur**: 13. März 2018
