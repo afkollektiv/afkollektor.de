@@ -1,26 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  line-height: 1.5em;
+  background-color: black;
+  font-family: 'Roboto Condensed', Arial, sans-serif;
+}
+
+h1 {
+  padding: .25em;
+  background-color: red;
+  font-size: 3em;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h2 {
+  letter-spacing: .2em;
+}
+
+h3 {
+  letter-spacing: .2em;
+  background-color: white;
+  color: black;
+  padding: .25em;
+}
+
+blockquote {
+  font-size: 2em;
+  text-transform: uppercase;
+  background-color: white;
+  border: .25em solid red;
+  color: black;
+}
+
+li:nth-child(2) {
+  text-transform: uppercase;
+}
+
+blockquote > p:after {
+  content: ': der Skandal! Jetzt mit Nacktbildern';
 }
 
 .afk-container {
   margin: 0 auto;
-  width: 960px;
+  width: 800px;
+  color: white;
+  text-decoration: underline;
 }
 
-@media (max-width: 720px) {
-  .afk-container {
-    margin: .5em;
-    width: auto;
-  }
+ul {
+  font-size: 1.5em;
+  color: red !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 2em;
-  color: tomato;
-}
-
-blockquote {
-  padding-left: 1em;
-  border-left: 2px solid tomato;
+a,
+a:visited {
+  color: red;
 }
