@@ -17,10 +17,21 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 2em;
-  color: tomato;
+  color: #ff4136;
+}
+
+a,
+a:visited {
+  color: #0074d9;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  text-decoration: underline;
 }
 
 blockquote {
   padding-left: 1em;
-  border-left: 2px solid tomato;
+  border-left: 2px solid #ff4136;
 }
