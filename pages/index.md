@@ -73,4 +73,4 @@ Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag
 
 ## Mitschriebe
 
-Mitschriebe von Informatik-Vorlesungen sind unter https://github.com/luk3b/kit-lecture-notes verfügbar. Mitarbeit immer gerne gesehen!
+Mitschriebe von Informatik-Vorlesungen sind unter [Lukes Github](https://github.com/luk3b/kit-lecture-notes) verfügbar. Mitarbeit immer gerne gesehen!
