@@ -9,5 +9,6 @@
     <div class="afk-container">
       <?theme body?>
     </div>
+    <script src="./k.js"></script>
   </body>
 </html>
