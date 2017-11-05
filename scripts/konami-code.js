@@ -31,8 +31,6 @@
     var listener = function (e) {
       keysPressed.push(e.keyCode);
 
-      console.log(keysPressed, streak);
-
       if (isSuffix(streak, keysPressed)) {
         window.removeEventListener(eventToListenFor, listener);
         callback();
