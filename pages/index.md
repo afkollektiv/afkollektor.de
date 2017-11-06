@@ -57,19 +57,16 @@
     - Übungsschein: Keiner
 - Klausur: 13. März 2018
 
-## Klausurkalender
+## Klausurenübersicht
 
-Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag
----|---|---|---|---|---|---
-  |  |  | _01._ (Februar)<br>&nbsp; | _02._<br>&nbsp; | _03._<br>&nbsp; | _04._<br>&nbsp;
- _05._<br>&nbsp; | _06._<br>&nbsp; | _07._<br>&nbsp; | _08._<br>&nbsp; | _09._<br>&nbsp; | _10._<br>&nbsp; | _11._ Ende der<br>Vorlesungen
- _12._<br>**GWSI** | _13._<br>&nbsp; | _14._<br>&nbsp; | _15._<br>&nbsp; | _16._<br>&nbsp; | _17._<br>&nbsp; | _18._<br>&nbsp;
- _19._<br>&nbsp; | _20._<br>&nbsp; | _21._<br>&nbsp; | _22._<br>&nbsp; | _23._<br>**TI** | _24._<br>&nbsp; | _25._<br>&nbsp;
- _26._<br>&nbsp; | _27._<br>&nbsp; | _28._<br>&nbsp; | _01._ (März)<br>&nbsp; | _02._<br>**OS** | _03._<br>&nbsp; | _04._<br>&nbsp;
- _05._<br>&nbsp; | _06._<br>&nbsp; | _07._<br>&nbsp; | _08._<br>&nbsp; | _09._<br>&nbsp; | _10._<br>&nbsp; | _11._<br>&nbsp;
- _12._<br>&nbsp; | _13._<br>**TGI** | _14._<br>&nbsp; | _15._<br>&nbsp; | _16._<br>&nbsp; | _17._<br>&nbsp; | _18._<br>&nbsp;
- _19._<br>&nbsp; | _20._<br>&nbsp; | _21._<br>&nbsp; | _22._ **OS**<br>**Schein** | _23._<br>&nbsp; | _24._<br>&nbsp; | _25._<br>&nbsp;
- _26._<br>&nbsp; | _27._<br>**LA** | _28._<br>&nbsp; | _29._<br>&nbsp; | _30._<br>&nbsp; | _31._<br>&nbsp; | 
+> Siehe auch: [KitInfo Timers](https://timers.kitinfo.de)
+
+- (Beginn Semesterferien: So, 11. Februar 2018)
+- **GWSI:** Mo, 12. Februar 2018
+- **RO:** Fr, 23. Februar 2018
+- **OS:** Fr, 2. März 2018
+- **TGI:** Di, 13. März 2018
+- **OS Scheinklausur:** Do, 22. März 2018
 
 ## Mitschriebe
 
