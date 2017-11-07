@@ -59,7 +59,7 @@
 
 ## Klausurenübersicht
 
-> Siehe auch: [KitInfo Timers](https://timers.kitinfo.de)
+> Siehe auch: [KitInfo Timers](https://timers.kitinfo.de#positive![219,221,232,223])
 
 - (Beginn Semesterferien: So, 11. Februar 2018)
 - **GWSI:** Mo, 12. Februar 2018
