@@ -1,7 +1,7 @@
-index:	pages/index.md styles/index.css
+index:
 	mkdir -p build
 	cp styles/index.css build/index.css
 	cp scripts/konami-code.js build/k.js
-	discount-theme pages/index.md \
-		-o build/index.html \
-		-t templates/index.theme
+	cat templates/index-header.theme > build/index.html
+	cmark --smart < pages/index.md >> build/index.html
+	cat templates/index-footer.theme >> build/index.html
